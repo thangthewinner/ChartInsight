@@ -1,4 +1,4 @@
-dataset/data/
-dataset/origin_files/
-dataset/reduced_data/
-
+dataset/data/*
+dataset/origin_files/*
+dataset/reduced_data/*
+!.gitkeep
