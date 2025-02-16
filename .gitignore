@@ -1,4 +1,5 @@
-dataset/data/*
-dataset/origin_files/*
-dataset/reduced_data/*
+/assets/dataset/data/*
+/assets/dataset/origin_files/*
+/assets/dataset/reduced_data/*
+/assets/model/
 !.gitkeep
