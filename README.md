@@ -15,4 +15,7 @@ Dataset used: [DeepRuleDataset](https://huggingface.co/datasets/niups/DeepRuleDa
 ## References
 This work is based on:  
 
-Liu, Xiaoyi, Klabjan, Diego, & Bless, Patrick N. (2019). *Data Extraction from Charts via Single Deep Neural Network*. arXiv preprint arXiv:1906.11906. [https://doi.org/10.48550/arXiv.1906.11906](https://doi.org/10.48550/arXiv.1906.11906).  
+1. Liu, Xiaoyi, Klabjan, Diego, & Bless, Patrick N. (2019). *Data Extraction from Charts via Single Deep Neural Network*. arXiv preprint arXiv:1906.11906. [https://doi.org/10.48550/arXiv.1906.11906](https://doi.org/10.48550/arXiv.1906.11906).  
+2. [Using Hourglass Networks To Understand Human Poses](https://medium.com/towards-data-science/using-hourglass-networks-to-understand-human-poses-1e40e349fa15)
+3. [deep-vision
+/Hourglass](https://github.com/ethanyanjiali/deep-vision/tree/master/Hourglass)
