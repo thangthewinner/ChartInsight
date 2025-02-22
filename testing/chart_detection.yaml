@@ -1,0 +1,7 @@
+path: ../assets/dataset/tested_data/clsdata(1031)/cls/
+train: images/train2019/
+val: images/val2019/
+test: images/test2019/
+
+nc: 6
+names: ['Legend', 'ValueAxisTitle', 'ChartTitle', 'CategoryAxisTitle', 'PlotArea', 'InnerPlotArea']
