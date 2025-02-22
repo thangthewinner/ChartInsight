@@ -5,6 +5,12 @@ Create a simple web app that allows users to upload a chart, ask questions about
 
 Dataset used: [DeepRuleDataset](https://huggingface.co/datasets/niups/DeepRuleDataset/tree/main).  
 
+|data_type| type|
+|----|----|
+|0| bar|
+|1| line|
+|2| pie|
+
 ### Instructions for Downloading and Processing the Data  
 
 1. Download the dataset from the link above.  
