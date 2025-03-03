@@ -1,0 +1,8 @@
+path: "D:/Projects/ChartInsight/assets/dataset/test/bardata(1031)/bar/"
+
+train: "D:/Projects/ChartInsight/assets/dataset/test/bardata(1031)/bar/images/train2019/"
+val: "D:/Projects/ChartInsight/assets/dataset/test/bardata(1031)/bar/images/val2019/"
+test: "D:/Projects/ChartInsight/assets/dataset/test/bardata(1031)/bar/images/test2019/"
+
+nc: 1
+names: ["Series"]

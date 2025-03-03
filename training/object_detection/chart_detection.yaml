@@ -1,0 +1,8 @@
+path: "D:/Projects/ChartInsight/assets/dataset/reduce/clsdata(1031)/cls/"
+
+train: "D:/Projects/ChartInsight/assets/dataset/reduce/clsdata(1031)/cls/images/train2019/"
+val: "D:/Projects/ChartInsight/assets/dataset/reduce/clsdata(1031)/cls/images/val2019/"
+test: "D:/Projects/ChartInsight/assets/dataset/reduce/clsdata(1031)/cls/images/test2019/"
+
+nc: 6
+names: ['Legend', 'ValueAxisTitle', 'ChartTitle', 'CategoryAxisTitle', 'PlotArea', 'InnerPlotArea']

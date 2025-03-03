@@ -1,0 +1,8 @@
+path: './../../../assets/dataset/reduced_data/piedata(1008)/pie/'
+
+train: images/train2019/
+val: images/val2019/
+test: images/test2019/
+
+nc: 1
+names: ["Series"]
