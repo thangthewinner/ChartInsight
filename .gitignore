@@ -1,4 +1,9 @@
 /assets/dataset/data/*
 /assets/dataset/test/*
 /assets/dataset/reduced_data/*
+/testing/barchart/runs/*
+/testing/detection/runs/*
+/testing/segmentation/runs/*
+/training/object_detection/runs/*
+/training/segmentation/runs/*
 !.gitkeep
